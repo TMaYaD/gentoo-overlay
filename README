@@ -1,0 +1,6 @@
+master_repository = gentoo
+location = /usr/local/overlay
+names_cache = ${location}/.cache/names
+write_cache = /var/cache/paludis/metadata
+format = ebuild
+ 
